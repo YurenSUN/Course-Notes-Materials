@@ -339,9 +339,9 @@ Differences in interpreetation
 
 underspecified model and true model
 
-Assume the true model is $y = \beta_0 + \beta_1x + \beta_2z + v$ a
+Assume the true model is $y = \beta_0 + \beta_1x + \beta_2z + v$ 
 
-nd satisfied SLR 1 - 4: variation in both regressors, simple random samples, 
+and satisfied SLR 1 - 4: variation in both regressors, simple random samples, 
 												zero conditional mean E(v|x,z) = 0
 
 
@@ -350,7 +350,7 @@ Run the underspecified model: $y = \beta_0 + \beta_1x + u$
 
 In underspecified model, we treated the omitted variable in the error
 
-$/u = \beta_2 x_2 + v$    where $x_2$ is the ommited variable
+$u = \beta_2 x_2 + v$    where $x_2$ is the ommited variable
 
 SLR 1-3 satisfied, 
 
@@ -441,8 +441,7 @@ Basic insight: modify $x_1$ so that it does not correelated with the other x's, 
 Run a regression of $x_1$ on all the other x's and divide it into two parts
 
 - $x_1 = \alpha_0 + \alpha_2x_2 + ... + \alpha_kx_k + r_1$
-  $
-- x_1 = \hat{x_1} + \hat{r_1}$  
+- $x_1 = \hat{x_1} + \hat{r_1}$  
 - dependent variable = fitted value + residual
 - Fitted value: x that can be explained by other x's
 - **Residual**: x that **can not** be explained by other x's <- use this
@@ -1295,7 +1294,7 @@ e.g. p4-8 lec 21 for FE/FD stata + time as explanatory variable
 
 # Instrumental variables
 
-> Lec 21
+> Lec 22
 
 Problem with SLR/MLR 4( x uncorrelated with u) that maybe due to omitted variables
 
