@@ -23,6 +23,14 @@ Intermediate Microeconomic Theory - Advanced Treatment
 
 Taken with Prof. Raymond Jacques Deneckere in 2018 Fall in UW - Madison
 
+
+### Econ 410
+
+Introductory Econometrics
+
+Taken with Christopher McKelvey in 2020 Fall in UW - Madison
+
+
 ### Econ 475
 
 Economics of Growth
