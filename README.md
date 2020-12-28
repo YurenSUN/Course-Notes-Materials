@@ -1,4 +1,4 @@
-# notes
+# Courses Notes and Materials
 Parts of notes and materials for some courses taken
 
 ## Computer Sciences
@@ -22,6 +22,13 @@ Taken with Debra Deppeler in 2019 Spring in UW - Madison
 Intermediate Microeconomic Theory - Advanced Treatment
 
 Taken with Prof. Raymond Jacques Deneckere in 2018 Fall in UW - Madison
+
+
+### Econ 311
+
+Intermediate Macroeconomic - Advanced Treatment
+
+Taken with Prof. Simeon Alder in 2019 Spring in UW - Madison
 
 
 ### Econ 410
