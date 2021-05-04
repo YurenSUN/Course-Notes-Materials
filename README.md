@@ -1,5 +1,5 @@
 # Courses Notes and Materials
-Parts of notes and materials for some courses taken
+Parts of notes and materials for some courses taken. Only included the courses with materials inside this repo.
 
 ## Computer Sciences
 
@@ -14,6 +14,14 @@ Taken with Prof. Jim Skrentny in 2020 Fall in UW - Madison
 Programming III
 
 Taken with Debra Deppeler in 2019 Spring in UW - Madison
+
+### Comp Sci 559
+
+Computer Graphics
+
+Taken with Prof. Michael Gleicher in 2021 Spring in UW - Madison
+
+Course Website: https://graphics.cs.wisc.edu/Courses/559-sp2021/
 
 ## Econonics
 
@@ -73,6 +81,14 @@ Cross Listed: MATH 309, STAT 309
 The Theory of Single Variable Calculus
 
 Taken with Prof. Matthew Schrecker in 2020 Spring in UW - Madison
+
+### Math 574
+
+Introduction to Combinatorics
+
+Taken with Prof. Mikhail Ivanov in 2021 Spring in UW - Madison
+
+Lecture notes are available at https://people.math.wisc.edu/~mivanov/
 
 ### Math 632
 
