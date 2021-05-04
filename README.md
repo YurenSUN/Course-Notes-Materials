@@ -82,13 +82,15 @@ The Theory of Single Variable Calculus
 
 Taken with Prof. Matthew Schrecker in 2020 Spring in UW - Madison
 
-### Math 574
+### Math 475
 
 Introduction to Combinatorics
 
 Taken with Prof. Mikhail Ivanov in 2021 Spring in UW - Madison
 
 Lecture notes are available at https://people.math.wisc.edu/~mivanov/
+
+Cross Listed: COMP SCI 475, MATH 475, STAT 475
 
 ### Math 632
 
